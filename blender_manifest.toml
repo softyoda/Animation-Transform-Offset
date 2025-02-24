@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "animation_transform_offset"
+version = "1.0.0"
+name = "Animation Transform Offset"
+tagline = "Transform objects and offset their animations in one go"
+maintainer = "softyoda"
+type = "add-on"
+
+blender_version_min = "4.3.2"
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Animation", "Transform", "Workflow"]
